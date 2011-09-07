@@ -72,3 +72,4 @@ if __name__ == "__main__":
 
     test_routes()
     print "end of test"
+    print "testing github for mac"
